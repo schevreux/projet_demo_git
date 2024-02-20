@@ -1,6 +1,14 @@
-Bonjour Madame, Monsieur,
+one
+two
+three
+four
+five
+six
+seven
+eight
+nine
+ten
 
-J'apprends actuellement les commandes Git à l'ENI.
-
-Cordialement,
-M. Touchard
+yellow
+red
+black
